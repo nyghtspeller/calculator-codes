@@ -1,0 +1,2 @@
+language = "java"
+run = "java -Xmx1024M -Xms1024M -jar paper-1.9.4-722.jar nogui"
